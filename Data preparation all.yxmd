@@ -1,0 +1,636 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>FTIR+RAZAK+PERDANA for MANB2113.xlsx
+Query=`Map (3)$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="SSM_ANJUR" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SPR_KAUM" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="TAHUN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SSM_SESISEM" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SEMESTER" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="PERINGKAT" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="KETERANGAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SPR_NEGDIAM" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SSM_MATRIK" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SPR_JANTINA" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="JMF_INITIAL" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="NEGARA" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="MOD_PENGAJIAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="JENIS_PENGAJIAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="KAEDAH_PERLAKSANAAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="WARGANEGARA" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="JENIS_BIASISWA" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="SPR_KAHWIN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="UMUR" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="TKHMASUK" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="TKHKELUAR" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="TEMPOH_PENGAJIAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="BIDANG" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="JURUSAN" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="EME_SESISEM_MULA" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+            <Field name="EXM_GPA" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="Double" />
+            <Field name="SSM_BILSEM" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="Double" />
+            <Field name="kod-kursus" size="255" source="File: C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\FTIR+RAZAK+PERDANA for MANB2113.xlsx|||`Map (3)$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings>
+        <Position x="126" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">True</Value>
+          <Value name="Check Box (136)">True</Value>
+          <Value name="List Box (11)">"SSM_ANJUR","SPR_KAUM","TAHUN","SSM_SESISEM","SEMESTER","PERINGKAT","KETERANGAN","SPR_NEGDIAM","SSM_MATRIK","SPR_JANTINA","JMF_INITIAL","NEGARA","MOD_PENGAJIAN","JENIS_PENGAJIAN","KAEDAH_PERLAKSANAAN","WARGANEGARA","JENIS_BIASISWA","SPR_KAHWIN","UMUR","TKHMASUK","TKHKELUAR","TEMPOH_PENGAJIAN","BIDANG","JURUSAN","EME_SESISEM_MULA","EXM_GPA","SSM_BILSEM","kod-kursus"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">False</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="234" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [SPR_NEGDIAM]=&quot;Kedah&quot; OR  [SPR_NEGDIAM]=&quot;Pulau Pinang&quot; Or [SPR_NEGDIAM]= &quot;Perak&quot; THEN &quot;North&quot; ELSEIF [SPR_NEGDIAM]= &quot;WP Kuala Lumpur&quot; OR [SPR_NEGDIAM]=&quot;Selangor&quot; OR [SPR_NEGDIAM]=&quot;Negeri Sembilan&quot; THEN &quot;Center&quot; ELSEIF [SPR_NEGDIAM]=&quot;Melaka&quot; OR [SPR_NEGDIAM]= &quot;Johor&quot; THEN &quot;South&quot; ELSEIF [SPR_NEGDIAM]= &quot;Pahang&quot; OR [SPR_NEGDIAM]= &quot;Kelantan&quot; OR [SPR_NEGDIAM]=&quot;Terengganu&quot; THEN &quot;Coast&quot; ELSE &quot;Others&quot; ENDIF" field="Region" size="2147483647" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Region = IF [SPR_NEGDIAM]="Kedah" OR  [SPR_NEGDIAM]="Pulau Pinang" Or [SPR_NEGDI...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="354" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>TKHMASUK</InputFieldName>
+          <Language>English</Language>
+          <Format>dd-Mon-yyyy</Format>
+          <OutputFieldName>DateTime_IN</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert TKHMASUK From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="414" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_8ca165b53a154a7a8f0da816e92ff265_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="678" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_f45e632ab5dc4edea288660f8dcc3929_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="486" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>TKHKELUAR</InputFieldName>
+          <Language>English</Language>
+          <Format>dd-Mon-yyyy</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert TKHKELUAR From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="582" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>TAHUN</InputFieldName>
+          <Language>English</Language>
+          <Format>yyyy</Format>
+          <OutputFieldName>year</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert TAHUN From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="870" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_01b675306765426695aaca8bcf074470_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="738" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [EXM_GPA] &gt;= 3.8 THEN &quot;Above 3.8&quot; ELSEIF [EXM_GPA]&gt;=3.5 AND [EXM_GPA]&lt;=3.7 THEN &quot;3.5-3.7&quot; ELSEIF [EXM_GPA]&lt;=3.4 AND [EXM_GPA]&gt;3.0 THEN &quot;3.49-3.0&quot; ELSEIF [EXM_GPA]&lt;3.0 THEN &quot;Below 3.0&quot; Else&quot;Above 3.0&quot; ENDIF" field="Result" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Result = IF [EXM_GPA] &gt;= 3.8 THEN "Above 3.8" ELSEIF [EXM_GPA]&gt;=3.5 AND [EXM_GPA...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="834" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeDiff([DateTime_Out],[DateTime_IN],&quot;months&quot;)" field="Period of Study" size="4" type="Int32" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Period of Study = DateTimeDiff([DateTime_Out],[DateTime_IN],"months")
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="966" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_2770aa1ec755466eb9e30c3800135b5f_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="990" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [SPR_NEGDIAM]=&quot;Kedah&quot; Then 6.155672 ELSEIF [SPR_NEGDIAM]= &quot;Perak&quot; Then 4.693950 ELSEIF [SPR_NEGDIAM]=&quot;Perlis&quot; Then 6.443589 ELSEIF [SPR_NEGDIAM]=&quot;Penang&quot; THEN 5.285153 ELSEIF  [SPR_NEGDIAM]=&quot;Negeri Sembilan&quot; THEN 2.731813 ELSEIF [SPR_NEGDIAM]= &quot;Kelantan&quot; THEN 6.125397 ELSEIF [SPR_NEGDIAM]= &quot;Sabah&quot; THEN  5.420404 ELSEIF [SPR_NEGDIAM]= &quot;Pahang&quot; THEN 3.974341 ELSEIF [SPR_NEGDIAM]=&quot;Selangor&quot; THEN 3.509247 ELSEIF [SPR_NEGDIAM] =&quot;Johor&quot; THEN 1.937344 ELSE &quot;0&quot; ENDIF" field="Latitude" size="2147483647" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Latitude = IF [SPR_NEGDIAM]="Kedah" Then 6.155672 ELSEIF [SPR_NEGDIAM]= "Perak" ...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1170" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_e46a2ec7206f499aa850531ebd1c72f2_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1098" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Latitude" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1230" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [SPR_NEGDIAM]=&quot;Kedah&quot; Then 100.569649 ELSEIF [SPR_NEGDIAM]= &quot;Perak&quot; Then 101.117577 ELSEIF [SPR_NEGDIAM]=&quot;Perlis&quot; Then 100.216599 ELSEIF [SPR_NEGDIAM]=&quot;Penang&quot; THEN 100.456238 ELSEIF  [SPR_NEGDIAM]=&quot;Negeri Sembilan&quot; THEN 102.252502 ELSEIF [SPR_NEGDIAM]= &quot;Kelantan&quot; THEN 102.238068 ELSEIF [SPR_NEGDIAM]= &quot;Sabah&quot; THEN  116.796783 ELSEIF [SPR_NEGDIAM]= &quot;Pahang&quot; THEN 102.438057 ELSEIF [SPR_NEGDIAM]=&quot;Selangor&quot; THEN 	101.524803 ELSEIF [SPR_NEGDIAM] =&quot;Johor&quot; THEN 103.366585 ELSE &quot;0&quot; ENDIF" field="Longitude" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Longitude = IF [SPR_NEGDIAM]="Kedah" Then 100.569649 ELSEIF [SPR_NEGDIAM]= "Pera...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1326" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Longitude" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+        <Position x="1410" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields fieldX="Longitude" fieldY="Latitude" />
+          <Mode>Double</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1566" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\User\AppData\Local\Temp\Engine_12416_c2dc707a40804ca19846790a013f653c_\Engine_28348_84cc2a1fec9947bd9a3b3ba1085c2277_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Map</DefaultTab>
+              <Hints>
+                <Map>
+                  <BaseMap>[No Base Map]</BaseMap>
+                </Map>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1602" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="42" MaxRecords="">C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\dataclean.tde</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>dataclean.tde</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1614" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\User\OneDrive\gdrive @toshiba\study\sem2\data visualization\project\data preparation all1.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>data preparation all1.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output26" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Data preparation all</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
